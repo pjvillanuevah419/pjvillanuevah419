@@ -6,3 +6,4 @@
 - 🌱 I'm currently learning Flutter and Dart.
 - 💬 Ask me about Python.
 - ⚡ Fun fact: I'm studying both Systems Engineering and Software Engineering.
+- 🎓 I study at Compensar University Foundation - UCompensar, in Bogotá D.C., Colombia.
